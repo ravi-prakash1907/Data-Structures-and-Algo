@@ -9,6 +9,7 @@ print("Enter", size," elements!")
 for i in range (0,size):
     temp.append(int(input("")))
 
+print("Your array: ",temp)
 # taking the unique elements
 arr = np.array(list(dict.fromkeys(temp)))
 
@@ -17,8 +18,3 @@ if np.size(arr) >= 2:
     print("Largest 2 numbers in array: \n", arr[-1]," & ",arr[-2])
 elif np.size(arr) == 1:
     print("Array has only one unique element: ",arr[-1])
-
-
-
-
-
