@@ -37,7 +37,16 @@
   - ```dequeue()```  
   - ```head```  
   - ```tail```  
-9. 
+9. Trees  
+10. Heap  
+  - Minheap : root is smallest  
+  - Maxheap : root is Largest  
+11. Operations on heap
+  - Heapify  
+12. Tree Traversal  
+  - Inorder  
+  - Preorder  
+  - Postorder  
 
 
 
