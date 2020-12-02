@@ -1,5 +1,7 @@
 # Python and Data Structures Cheatsheet   
 
+### Theory  
+
 1. ```type()```  
 2. ```ord()```  
 3. Alias vs Clone (eg. in lists)  
@@ -10,3 +12,33 @@
 > ```  
 4. Function defination  
 5. Loops
+
+### Labs  
+
+1. Datatypes (int, str, float,...)  
+2. Operations (+, &, &&, %,...)  
+3. Arrays, Lists, Tuples etc..  
+4. Type Conversion  
+  - Implicit  
+  - Explicit  
+5. Nodes  
+6. Linked Lists  
+  - Singly  
+  - Doubly  
+  - Circular  
+  - Circular Doubly  
+7. Operations on Linked Lists  
+8. Stacks & Queues  
+  - FIFO vs LIFO  
+  - ```push()```  
+  - ```pop()```  
+  - ```empty()```  
+  - ```enqueue()```  
+  - ```dequeue()```  
+  - ```head```  
+  - ```tail```  
+9. 
+
+
+
+
