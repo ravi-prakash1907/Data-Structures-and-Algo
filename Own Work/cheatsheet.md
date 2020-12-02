@@ -44,10 +44,9 @@
 11. Operations on heap
   - Heapify  
 12. Tree Traversal  
-  - Inorder  
-  - Preorder  
-  - Postorder  
-
+  - Inorder (Lc - Rt - Rc)  
+  - Preorder (Rt - Lc - Rc)  
+  - Postorder (Lc - Rc - Rt)  
 
 
 
