@@ -1,0 +1,1 @@
+!['Image Output']('sample.png')
