@@ -1,0 +1,26 @@
+Subjects verb object.
+Subjects is object.
+Subjects am object.
+Subjects are object.
+Subjects is verb+ing object.
+Subjects am verb+ing object.
+Subjects are verb+ing object.
+Subjects has verb-3rd-form object.
+Subjects have verb-3rd-form object.
+Subjects has been verb-ing object.
+Subjects have been verb-ing object.
+Subjects verb-2nd-form object.
+Subjects was object.
+Subjects were object.
+Subjects was verb+ing object.
+Subjects were verb+ing object.
+Subjects had verb-3rd-form object.
+Subjects had been verb-ing object.
+Subjects will verb object.
+Subjects shall verb object.
+Subjects will be verb+ing object.
+Subjects shall be verb+ing object.
+Subjects will have verb-3rd-form object.
+Subjects shall have verb-3rd-form object.
+Subjects will have been verb-ing object.
+Subjects shall have been verb-ing object.
