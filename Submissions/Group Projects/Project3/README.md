@@ -1,1 +1,1 @@
-![Image Output](sample.png)
+![Tree Storage Model](treeStorageModel.png)
