@@ -1,1 +1,1 @@
-![Tree Storage Model](treeStorageModel.png)
+![Tree Storage Model](img/treeStorageModel.png)
