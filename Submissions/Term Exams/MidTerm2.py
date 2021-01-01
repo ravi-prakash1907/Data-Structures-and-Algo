@@ -101,6 +101,7 @@ class competitor:
 
 ## creates a list of marks awarded for every question grouped by the 5 topics 
 ## creates a list of marks awarded for every question grouped by the 5 topics 
+## creates a list of marks awarded for every question grouped by the 5 topics 
 class competitiveExam:
   def __init__(self, answerKey = None):
     self.__answerKey = self.__putSolutions(answerKey)
@@ -189,12 +190,11 @@ class competitiveExam:
     gotMarks = self.scores[loc]
     studentsBehind = len(self.scores[self.scores < gotMarks])
     
-
-    if dupMarksLoc > 1:
-      dupMarksLoc = len(np.where(self.scores == gotMarks)[0])
+    dupMarksLoc = list(np.where(self.scores == gotMarks)[0])
+    if len(dupMarksLoc) > 1:
       getWithExtra = lambda x: gotMarks + self.competitors[x].bonus
       thisWithExtra = getWithExtra(loc)
-      dupMarksLoc.remove(loc)      
+      dupMarksLoc.remove(loc)     
       dupComparision = np.array(list(map(getWithExtra, dupMarksLoc)))
       studentsBehind += len(dupComparision[dupComparision < thisWithExtra])
 
